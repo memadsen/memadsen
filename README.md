@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elxsj
 - 👀 I’m interested in MLOps, automation, workflows and pipelines
 - 🌱 I’m currently learning Graph Neural Networks, Meta Analysis and K8s
-- 💞️ I’m looking to collaborate on code for database schemas, data cleaning code
+- 💞️ I’m looking to collaborate on code for database schemas, data cleaning code, training/tuning/testing ML models at scale for meta studies.
 - 📫 How to reach me: beg managers for slack bc Teams is a digital overload nightmare.
 
 <!---
