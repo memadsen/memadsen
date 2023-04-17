@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 --------
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meeplemountain.com%2Freviews%2Ftrogdor-the-boardgame%2F&psig=AOvVaw2lxC9UvA6PVLQYAaOWZBMF&ust=1681849965523000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjuicvhsf4CFQAAAAAdAAAAABAI)
+![strongbad](https://user-images.githubusercontent.com/93400240/232605166-7ecdf496-0683-45ad-b888-2ac2070ea2f0.gif)
