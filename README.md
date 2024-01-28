@@ -1,3 +1,5 @@
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=memadsen)](https://github.com/memadsen/github-readme-stats)
+
 - 👋 Hi, I’m Mike Madsen
 - 👀 I’m interested in MLOps, automation, workflows and pipelines
 - 🌱 I’m currently learning Graph Neural Networks, Meta Analysis and MLops-for-ML-deployments.
