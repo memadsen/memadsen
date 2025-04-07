@@ -2,7 +2,7 @@
 ![strongbad](https://user-images.githubusercontent.com/93400240/232605166-7ecdf496-0683-45ad-b888-2ac2070ea2f0.gif)
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/memadsen/memadsen/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
